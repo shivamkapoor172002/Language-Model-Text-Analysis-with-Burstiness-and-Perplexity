@@ -1,6 +1,6 @@
-# plagrism   https://shivamkapoor172002-plagrism-app-wlbw7e.streamlit.app/
-
 # Language Model Text Analysis with Burstiness and Perplexity
+
+   https://shivamkapoor172002-plagrism-app-wlbw7e.streamlit.app/
 
 Welcome to the Language Model Text Analysis project, a tool designed to delve deep into textual data and unveil insights that lie beneath the surface. This project utilizes natural language processing techniques, including perplexity analysis and burstiness scoring, to assess and analyze text data.
 
